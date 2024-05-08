@@ -1,8 +1,27 @@
-# React + Vite
+# Setting up a React Project with React-Redux and Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies Used:
+- React
+- React-Redux (State Management)
+- Tailwind CSS
 
-Currently, two official plugins are available:
+## Process for Setup:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the Repository:**
+   ```bash
+   git clone [repository URL] 
+### 2. Navigate to the Folder  
+```bzsh
+cd [project folder]
+```
+### 3.Install Dependencies 
+```
+npm install 
+```
+
+### 4.Start the Project 
+```
+npm run dev 
+```
+### 5.Open the Project in the Browser
+ http://localhost:5173
